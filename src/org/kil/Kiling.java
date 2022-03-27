@@ -1,7 +1,6 @@
 package org.kil;
 
 
-
 public class  Kiling{
 
 	private void empName() {

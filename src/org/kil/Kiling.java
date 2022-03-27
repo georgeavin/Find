@@ -15,6 +15,10 @@ public class  Kiling{
 		System.out.println("New Employee pin : 56245");
 	}
 	
+	private void empIn() {
+		System.out.println("Employee Inn");
+	}
+	
 	private void empVin() {
 		System.out.println("Employee Vin");
 	}
